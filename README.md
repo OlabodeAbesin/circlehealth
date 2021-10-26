@@ -1,4 +1,4 @@
-# Circle Link Health
+# Circle Link
 
 Build a Laravel application which will be used by nurses to input their patients’ blood pressure readings. 
 
