@@ -29,8 +29,6 @@ git clone https://github.com/olabodeabesin/circlelink
 cp .env.example .env
 ```
 
-Please check this doc to add sail to configure a bash alias for sail: https://laravel.com/docs/8.x/sail#configuring-a-bash-alias 
-
 4. Install all composer dependencies
 ```
  composer install
